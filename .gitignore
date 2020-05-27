@@ -1,6 +1,5 @@
 .DS_Store
-Node-express/node_modules/
-Vue/node_modules/
+node_modules/
 /dist/
 npm-debug.log*
 yarn-debug.log*
