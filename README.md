@@ -1,1 +1,4 @@
 # FishingShop
+我直接将我原本的项目CV到git上的
+Node-express是服务端代码
+Vue是客户端代码
